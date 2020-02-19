@@ -1,0 +1,20 @@
+{
+  "name": "d3_project_template",
+  "version": "1.0.0",
+  "description": "d3.js项目模板",
+  "main": "index.js",
+  "dependencies": {
+    "@types/d3": "^5.7.2",
+    "d3": "^5.15.0"
+  },
+  "devDependencies": {
+    "copy-webpack-plugin": "^5.1.1",
+    "ts-loader": "^6.2.1",
+    "typescript": "^3.7.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
